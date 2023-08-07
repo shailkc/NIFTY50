@@ -1,11 +1,13 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 # NIFTY 50
 
-Contains codes machine learning algorithm for f.
+Contains codes for machine learning algorithm for predicting future prices for NIFTY 50.
 
 ## Algorithm Details
-
+Linear Regression
 Random forest
+Decision Trees
+Support Vector
 
 ### Google Collab link
 
