@@ -9,4 +9,4 @@ Random forest
 
 ### Google Collab link
 
-- `link`: abcd.com
+- `link`: https://colab.research.google.com/gist/shailkc/e01c2a452d7eda9483959adf4ed81bf8/modelling-on-nsei-dataset.ipynb
